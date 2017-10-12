@@ -38,5 +38,5 @@ def png_to_txt(filename):
 
 
 if __name__ == "__main__":
-    txt_to_png("testcase.txt")
-    png_to_txt("testcase.txt.png")
+    # txt_to_png("testcase.txt")
+    png_to_txt("enemy.png")
